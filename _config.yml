@@ -1,0 +1,16 @@
+title: TomTom Open Source Projects
+description: Open Source Software developed at TomTom
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tomtom-international.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: TomTomDevs
+github_username: tomtom-international
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - scripts
+  - assets/html
+  - package.json
+  - yarn.lock
+  - README.md
