@@ -34,12 +34,6 @@
   projects:
     - url: https://github.com/tomtom-international/kotlin-tools
 - config:
-    id: objective-c
-    name: Objective-C
-  projects:
-    - url: https://github.com/tomtom-international/migration-tutorial-ios-sdk
-    - url: https://github.com/tomtom-international/tomtom-use-case-search-along-a-route-ios
-- config:
     id: python
     name: Python
     icons_html: >
