@@ -38,6 +38,25 @@ bundle exec jekyll serve
 GH_TOKEN=YOUR_TOKEN node ./scripts/nightly.js
 ```
 
+## Adding a project to the Showcase
+You can add a project by adding it in the `projects.yaml` file.
+Find the section for a specific coding language and add the following line to
+the `projects:` section: `- url: <link of github repository`
+
+Below is an example for a configuration of the Kotlin section:
+
+```
+
+- config:
+    id: kotlin
+    name: Kotlin
+  projects:
+    - url: https://github.com/tomtom-international/kotlin-tools
+
+```
+
+If there is no section available for your programming language you can add a new `- config:` section using a unique id and name. You can use the example above as a template.
+
 ---
 
 This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
