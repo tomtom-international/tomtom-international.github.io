@@ -1,0 +1,197 @@
+/*
+ * Copyright 2021 Spotify AB
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+h1,
+h2,
+h3 {
+
+  font-family: "Noway Regular", Helvetica, Arial, sans-serif;
+
+}
+
+.navbar-logo {
+  background-image: none;
+}
+
+.navbar-logo svg {
+  position: relative;
+  top: -16px;
+  width: 200px;
+  height: 60px;
+}
+
+a:not([style]),
+a:not([style]) p {
+  color: #2e2f33;
+}
+
+.intro {
+  background-image: url(../img/tomtom-banner.jpg);
+  background-size: cover;
+  background-color: #fff;
+}
+
+.jumbotron-hero {
+  text-align: left;
+  font-family: "Gotham Bold", Helvetica, Arial, sans-serif;
+
+  padding: 60px 0 110px;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  font-size: 150%;
+  color: #000;
+  background-color: transparent;
+}
+
+.jumbotron-hero p {
+  font-size: 20px;
+}
+
+.jumbotron-hero a {
+  transition: opacity 0.2s;
+  font-weight: 700;
+  color: #000;
+}
+
+.jumbotron-hero a:hover {
+  opacity: 0.8;
+}
+
+.jumbotron-hero h1 {
+  color: #000;
+  font-weight: 900;
+}
+
+.jumbotron-hero fieldset {
+  position: relative;
+}
+
+.jumbotron-hero fieldset legend {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 800;
+  border-bottom: 0;
+}
+
+.jumbotron-hero fieldset legend:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  right: 0;
+  width: 50vw;
+}
+
+.jumbotron-hero fieldset ul {
+  padding: 0;
+}
+
+.jumbotron-hero fieldset ul > li {
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+footer {
+  background: #262626;
+  margin-top: 30px;
+  padding: 30px;
+  color: #919496;
+  text-align: center;
+}
+
+#page {
+  padding-left: 0;
+}
+
+#page h2 {
+  font-weight: 700;
+  padding-top: 110px;
+  font-size: 44px;
+  margin-bottom: 24px;
+}
+
+#page h2,
+#page h2 a {
+  color: #503750;
+}
+
+#page h2 > a > i {
+  position: relative;
+  top: 2px;
+  float: right;
+}
+
+#page h2:first-child {
+  padding-top: 55px;
+}
+
+#page section a {
+  transition: opacity 0.2s;
+  opacity: 1;
+  display: block;
+}
+
+#page section a:hover {
+  opacity: 0.7;
+}
+
+#page section p {
+  font-family: "Noway Regular",Helvetica,Arial,sans-serif;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #666666;
+}
+
+#page section:last-child {
+  margin-bottom: 90px;
+}
+
+#page section h3 {
+  font-weight: 700;
+}
+
+.footer .nav-title {
+  text-align: left;
+  font-weight: 800;
+  color: #fff;
+}
+
+.footer li {
+  text-align: left;
+}
+
+.footer .nav a {
+  font-weight: 400;
+  color: #7a7e80;
+}
+
+.footer .nav-small > li > .last-updated:hover {
+  color: #919496;
+}
+
+.footer .nav a:hover {
+  color: #fff;
+}
+
+.footer .col-social a:hover{
+  color: #df1b12;
+}
+
+.repo-stats span {
+  margin-right: 15px;
+  font-weight: 700;
+}
