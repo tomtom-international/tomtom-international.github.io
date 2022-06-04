@@ -21,6 +21,7 @@
     - url: https://github.com/tomtom-international/james
     - url: https://github.com/tomtom-international/openlr
     - url: https://github.com/tomtom-international/speedtools
+    - url: https://github.com/tomtom-international/BanditCameraKit-Android
 #- config:
 #    id: javascript
 #    name: JavaScript
@@ -46,6 +47,7 @@
   projects:
     - url: https://github.com/tomtom-international/asciidoxy
     - url: https://github.com/tomtom-international/commisery
+    - url: https://github.com/tomtom-international/cookiecutter-python
     - url: https://github.com/tomtom-international/keepachangelog-manager
     - url: https://github.com/tomtom-international/llvm-diagnostics
     - url: https://github.com/tomtom-international/openlr-python
@@ -66,4 +68,4 @@
     id: other
     name: Other
   projects:
-    - url: https://github.com/spotify/git-test
+    - url: https://github.com/tomtom-international/azure-pipeline-templates
