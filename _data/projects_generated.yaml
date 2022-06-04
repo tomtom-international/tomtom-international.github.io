@@ -1,0 +1,213 @@
+- config:
+    id: c_c++
+    name: C / C++
+    icons_html: |
+      <i class="devicon-cplusplus-plain"></i> <i class="devicon-c-plain"></i>
+  projects:
+    - name: AutoStreamForAutoware
+      description: A tool that converts HD Map data to Lanelet2 format
+      stargazerCount: 6
+      forkCount: 0
+      url: https://github.com/tomtom-international/AutoStreamForAutoware
+      openIssues:
+        totalCount: 0
+      watchers:
+        totalCount: 5
+    - name: cpp-dependencies
+      description: "Tool to check C++ #include dependencies (dependency graphs created
+        in .dot format)"
+      stargazerCount: 662
+      forkCount: 77
+      url: https://github.com/tomtom-international/cpp-dependencies
+      openIssues:
+        totalCount: 12
+      watchers:
+        totalCount: 45
+- config:
+    id: go
+    name: Go
+  projects:
+    - name: alertmanager-webhook-logger
+      description: Generates (structured) log messages from Prometheus AlertManager
+        webhook notifier.
+      stargazerCount: 40
+      forkCount: 14
+      url: https://github.com/tomtom-international/alertmanager-webhook-logger
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 4
+- config:
+    id: java
+    name: Java
+    icons_html: |
+      <i class="devicon-java-plain-wordmark"></i>
+  projects:
+    - name: james
+      description: James is a Java agent that may be attached to any JVM process and
+        provide operational insight on what's going on under the hood of your
+        service.
+      stargazerCount: 23
+      forkCount: 14
+      url: https://github.com/tomtom-international/james
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 6
+    - name: openlr
+      description: Reference implementation of OpenLR.  A map agnostic, dynamic
+        location referencing method.
+      stargazerCount: 57
+      forkCount: 19
+      url: https://github.com/tomtom-international/openlr
+      openIssues:
+        totalCount: 8
+      watchers:
+        totalCount: 14
+    - name: speedtools
+      description: The official SpeedTools Library for Java - donated by TomTom
+      stargazerCount: 8
+      forkCount: 6
+      url: https://github.com/tomtom-international/speedtools
+      openIssues:
+        totalCount: 0
+      watchers:
+        totalCount: 4
+- config:
+    id: kotlin
+    name: Kotlin
+  projects:
+    - name: kotlin-tools
+      description: A collection of handy Kotlin tools, made open-source by TomTom
+      stargazerCount: 10
+      forkCount: 3
+      url: https://github.com/tomtom-international/kotlin-tools
+      openIssues:
+        totalCount: 2
+      watchers:
+        totalCount: 6
+- config:
+    id: objective-c
+    name: Objective-C
+  projects:
+    - name: migration-tutorial-ios-sdk
+      description: Migration tutorial from Google SDK to TomTom SDK for iOS applications
+      stargazerCount: 1
+      forkCount: 1
+      url: https://github.com/tomtom-international/migration-tutorial-ios-sdk
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 4
+    - name: tomtom-use-case-search-along-a-route-ios
+      description: Search along a route example application created using TomTom Maps
+        SDK for iOS.
+      stargazerCount: 0
+      forkCount: 2
+      url: https://github.com/tomtom-international/tomtom-use-case-search-along-a-route-ios
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 4
+- config:
+    id: python
+    name: Python
+    icons_html: |
+      <i class="devicon-python-plain alt-colored"></i>
+  projects:
+    - name: asciidoxy
+      description: AsciiDoxy generates API documentation from Doxygen XML output to
+        AsciiDoc.
+      stargazerCount: 20
+      forkCount: 7
+      url: https://github.com/tomtom-international/asciidoxy
+      openIssues:
+        totalCount: 12
+      watchers:
+        totalCount: 6
+    - name: commisery
+      description: Commisery is a package to help check whether given commit messages
+        adhere to Conventional Commits. Specifically it checks the syntax and
+        some small aspects of the semantics.
+      stargazerCount: 1
+      forkCount: 1
+      url: https://github.com/tomtom-international/commisery
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 4
+    - name: keepachangelog-manager
+      description: Python package allowing you to manage your CHANGELOG.md files
+      stargazerCount: 1
+      forkCount: 0
+      url: https://github.com/tomtom-international/keepachangelog-manager
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 2
+    - name: llvm-diagnostics
+      description: Python module for creating diagnostics using the LLVM diagnostics
+        specification
+      stargazerCount: 1
+      forkCount: 0
+      url: https://github.com/tomtom-international/llvm-diagnostics
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 2
+    - name: openlr-python
+      description: OpenLR library for Python
+      stargazerCount: 10
+      forkCount: 5
+      url: https://github.com/tomtom-international/openlr-python
+      openIssues:
+        totalCount: 2
+      watchers:
+        totalCount: 8
+    - name: vault-anyconfig
+      description: Integrates anyconfig with the HVAC Vault client to mix Vault
+        secrets into configuration file contents.
+      stargazerCount: 6
+      forkCount: 3
+      url: https://github.com/tomtom-international/vault-anyconfig
+      openIssues:
+        totalCount: 2
+      watchers:
+        totalCount: 7
+- config:
+    id: swift
+    name: Swift
+    icons_html: |
+      <i class="devicon-swift-plain"></i>
+  projects:
+    - name: BanditCameraKit-iOS
+      description: The official iOS Bandit Camera Kit - donated by TomTom
+      stargazerCount: 4
+      forkCount: 1
+      url: https://github.com/tomtom-international/BanditCameraKit-iOS
+      openIssues:
+        totalCount: 1
+      watchers:
+        totalCount: 5
+    - name: maps-sdk-for-ios-examples
+      description: TomTom Maps SDK for iOS - Examples
+      stargazerCount: 12
+      forkCount: 4
+      url: https://github.com/tomtom-international/maps-sdk-for-ios-examples
+      openIssues:
+        totalCount: 5
+      watchers:
+        totalCount: 8
+- config:
+    id: other
+    name: Other
+  projects:
+    - name: git-test
+      description: test your commits
+      stargazerCount: 186
+      forkCount: 40
+      url: https://github.com/spotify/git-test
+      openIssues:
+        totalCount: 0
+      watchers:
+        totalCount: 121

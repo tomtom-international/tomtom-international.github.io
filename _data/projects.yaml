@@ -1,0 +1,69 @@
+- config:
+    id: c_c++
+    name: C / C++
+    icons_html: >
+      <i class="devicon-cplusplus-plain"></i>
+      <i class="devicon-c-plain"></i>
+  projects:
+    - url: https://github.com/tomtom-international/AutoStreamForAutoware
+    - url: https://github.com/tomtom-international/cpp-dependencies
+- config:
+    id: go
+    name: Go
+  projects:
+    - url: https://github.com/tomtom-international/alertmanager-webhook-logger
+- config:
+    id: java
+    name: Java
+    icons_html: >
+      <i class="devicon-java-plain-wordmark"></i>
+  projects:
+    - url: https://github.com/tomtom-international/james
+    - url: https://github.com/tomtom-international/openlr
+    - url: https://github.com/tomtom-international/speedtools
+#- config:
+#    id: javascript
+#    name: JavaScript
+#    icons_html: >
+#      <i class="devicon-javascript-plain"></i>
+#  projects:
+- config:
+    id: kotlin
+    name: Kotlin
+  projects:
+    - url: https://github.com/tomtom-international/kotlin-tools
+- config:
+    id: objective-c
+    name: Objective-C
+  projects:
+    - url: https://github.com/tomtom-international/migration-tutorial-ios-sdk
+    - url: https://github.com/tomtom-international/tomtom-use-case-search-along-a-route-ios
+- config:
+    id: python
+    name: Python
+    icons_html: >
+      <i class="devicon-python-plain alt-colored"></i>
+  projects:
+    - url: https://github.com/tomtom-international/asciidoxy
+    - url: https://github.com/tomtom-international/commisery
+    - url: https://github.com/tomtom-international/keepachangelog-manager
+    - url: https://github.com/tomtom-international/llvm-diagnostics
+    - url: https://github.com/tomtom-international/openlr-python
+    - url: https://github.com/tomtom-international/vault-anyconfig
+#- config:
+#    id: scala
+#    name: Scala
+#  projects:
+- config:
+    id: swift
+    name: Swift
+    icons_html: >
+      <i class="devicon-swift-plain"></i>
+  projects:
+    - url: https://github.com/tomtom-international/BanditCameraKit-iOS
+    - url: https://github.com/tomtom-international/maps-sdk-for-ios-examples
+- config:
+    id: other
+    name: Other
+  projects:
+    - url: https://github.com/spotify/git-test
