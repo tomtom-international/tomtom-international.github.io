@@ -60,6 +60,6 @@ If there is no section available for your programming language you can add a new
 
 ---
 
-This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
+This project adheres to the [Contributor Covenant Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
 
 [code-of-conduct]: https://github.com/tomtom-international/.github/blob/main/code-of-conduct.md
