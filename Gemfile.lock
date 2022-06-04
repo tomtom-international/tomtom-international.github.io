@@ -281,7 +281,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 215)
+  github-pages
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
