@@ -1,5 +1,6 @@
 # tomtom-international.github.io
 
+[![Nightly Update](https://github.com/tomtom-international/tomtom-international.github.io/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/tomtom-international/tomtom-international.github.io/actions/workflows/nightly.yml)
 
 Showcase site for hand-picked open-source projects by TomTom based on the excellent showcase site built by Spotify. It is built using Jekyll & GitHub Actions with a node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
 
