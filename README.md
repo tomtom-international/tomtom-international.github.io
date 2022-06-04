@@ -38,7 +38,7 @@ bundle exec jekyll serve
 GH_TOKEN=YOUR_TOKEN node ./scripts/nightly.js
 ```
 
-## Adding a project to the Showcase
+## Adding a project to the showcase website
 You can add a project by adding it in the `projects.yaml` file.
 Find the section for a specific coding language and add the following line to
 the `projects:` section: `- url: <link of github repository`
