@@ -179,8 +179,15 @@ footer {
   color: #7a7e80;
 }
 
+.footer .nav a:visited {
+  font-weight: 400;
+  color: #7a7e80;
+}
+
+
 .footer .nav-small > li > .last-updated:hover {
   color: #919496;
+
 }
 
 .footer .nav a:hover {
