@@ -4,6 +4,9 @@
 
 Showcase site for hand-picked open-source projects by TomTom based on the excellent showcase site built by Spotify. It is built using Jekyll & GitHub Actions with a node.js script to fetch data from the GitHub GraphQL API adding it to a static YAML file in the repository.
 
+This repo is maintained by the TomTom Open Source Program Office.
+<opensource@tomtom.com> 
+
 
 ## Development
 
