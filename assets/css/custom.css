@@ -22,6 +22,10 @@ h3 {
 
 }
 
+.navbar-default {
+    background-color: #fff;
+}
+
 .navbar-logo {
   background-image: none;
 }
@@ -29,7 +33,7 @@ h3 {
 .navbar-logo svg {
   position: relative;
   top: -16px;
-  width: 200px;
+  width: 155px;
   height: 60px;
 }
 
