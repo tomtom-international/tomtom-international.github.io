@@ -22,9 +22,13 @@ h3 {
 
 }
 
-.navbar-default {
-    background-color: #fff;
+
+@media (max-width: 991px) {
+  .navbar-default {
+      background-color: transparent;
+  }
 }
+
 
 .navbar-logo {
   background-image: none;
