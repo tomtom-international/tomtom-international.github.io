@@ -45,7 +45,7 @@
     - url: https://github.com/tomtom-international/keepachangelog-manager
     - url: https://github.com/tomtom-international/llvm-diagnostics
     - url: https://github.com/tomtom-international/openlr-python
-    - url: https://github.com/tomtom-international/vault-anyconfig
+    - url: https://github.com/tomtom-international/openlr-dereferencer-python
 #- config:
 #    id: scala
 #    name: Scala
