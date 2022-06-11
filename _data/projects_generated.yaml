@@ -159,16 +159,15 @@
         totalCount: 1
       watchers:
         totalCount: 8
-    - name: vault-anyconfig
-      description: Integrates anyconfig with the HVAC Vault client to mix Vault
-        secrets into configuration file contents.
-      stargazerCount: 6
-      forkCount: 3
-      url: https://github.com/tomtom-international/vault-anyconfig
+    - name: openlr-dereferencer-python
+      description: OpenLR dereferencer in Python
+      stargazerCount: 7
+      forkCount: 4
+      url: https://github.com/tomtom-international/openlr-dereferencer-python
       openIssues:
-        totalCount: 2
-      watchers:
         totalCount: 7
+      watchers:
+        totalCount: 5
 - config:
     id: swift
     name: Swift
