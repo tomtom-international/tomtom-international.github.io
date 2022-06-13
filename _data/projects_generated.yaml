@@ -6,7 +6,7 @@
   projects:
     - name: AutoStreamForAutoware
       description: A tool that converts HD Map data to Lanelet2 format
-      stargazerCount: 6
+      stargazerCount: 7
       forkCount: 0
       url: https://github.com/tomtom-international/AutoStreamForAutoware
       openIssues:
@@ -140,16 +140,6 @@
         totalCount: 1
       watchers:
         totalCount: 2
-    - name: llvm-diagnostics
-      description: Python module for creating diagnostics using the LLVM diagnostics
-        specification
-      stargazerCount: 1
-      forkCount: 0
-      url: https://github.com/tomtom-international/llvm-diagnostics
-      openIssues:
-        totalCount: 1
-      watchers:
-        totalCount: 2
     - name: openlr-python
       description: OpenLR library for Python
       stargazerCount: 10
@@ -168,6 +158,16 @@
         totalCount: 7
       watchers:
         totalCount: 5
+    - name: vault-assessment-prometheus-exporter
+      description: Provides a prometheus exporter for monitoring aspects secrets
+        stored on a running HashiCorp Vault server
+      stargazerCount: 1
+      forkCount: 1
+      url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
+      openIssues:
+        totalCount: 0
+      watchers:
+        totalCount: 1
 - config:
     id: swift
     name: Swift
