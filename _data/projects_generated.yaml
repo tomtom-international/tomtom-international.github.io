@@ -185,7 +185,7 @@
         totalCount: 5
     - name: maps-sdk-for-ios-examples
       description: TomTom Maps SDK for iOS - Examples
-      stargazerCount: 12
+      stargazerCount: 13
       forkCount: 4
       url: https://github.com/tomtom-international/maps-sdk-for-ios-examples
       openIssues:
