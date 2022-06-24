@@ -151,7 +151,7 @@
         totalCount: 8
     - name: openlr-dereferencer-python
       description: OpenLR dereferencer in Python
-      stargazerCount: 7
+      stargazerCount: 8
       forkCount: 4
       url: https://github.com/tomtom-international/openlr-dereferencer-python
       openIssues:
@@ -161,7 +161,7 @@
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
-      stargazerCount: 5
+      stargazerCount: 12
       forkCount: 2
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
