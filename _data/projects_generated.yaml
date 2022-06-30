@@ -16,7 +16,7 @@
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
-      stargazerCount: 662
+      stargazerCount: 661
       forkCount: 78
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
@@ -152,7 +152,7 @@
     - name: openlr-dereferencer-python
       description: OpenLR dereferencer in Python
       stargazerCount: 8
-      forkCount: 4
+      forkCount: 5
       url: https://github.com/tomtom-international/openlr-dereferencer-python
       openIssues:
         totalCount: 6
@@ -161,7 +161,7 @@
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
-      stargazerCount: 15
+      stargazerCount: 16
       forkCount: 3
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
