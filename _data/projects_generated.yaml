@@ -34,7 +34,7 @@
       forkCount: 14
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
-        totalCount: 1
+        totalCount: 0
       watchers:
         totalCount: 4
 - config:
