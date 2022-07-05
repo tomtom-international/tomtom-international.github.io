@@ -92,7 +92,7 @@
       forkCount: 3
       url: https://github.com/tomtom-international/kotlin-tools
       openIssues:
-        totalCount: 2
+        totalCount: 3
       watchers:
         totalCount: 6
 - config:
@@ -161,7 +161,7 @@
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
-      stargazerCount: 17
+      stargazerCount: 18
       forkCount: 3
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
