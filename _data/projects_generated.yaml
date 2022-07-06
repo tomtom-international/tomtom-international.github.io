@@ -151,7 +151,7 @@
         totalCount: 8
     - name: openlr-dereferencer-python
       description: OpenLR dereferencer in Python
-      stargazerCount: 8
+      stargazerCount: 9
       forkCount: 5
       url: https://github.com/tomtom-international/openlr-dereferencer-python
       openIssues:
