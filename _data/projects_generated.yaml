@@ -165,7 +165,7 @@
       forkCount: 3
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
-        totalCount: 3
+        totalCount: 4
       watchers:
         totalCount: 1
 - config:
