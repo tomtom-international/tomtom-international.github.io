@@ -16,7 +16,7 @@
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
-      stargazerCount: 661
+      stargazerCount: 662
       forkCount: 78
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
@@ -30,7 +30,7 @@
     - name: alertmanager-webhook-logger
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
-      stargazerCount: 40
+      stargazerCount: 41
       forkCount: 14
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
@@ -51,7 +51,7 @@
       forkCount: 14
       url: https://github.com/tomtom-international/james
       openIssues:
-        totalCount: 1
+        totalCount: 0
       watchers:
         totalCount: 6
     - name: openlr
@@ -104,7 +104,7 @@
     - name: asciidoxy
       description: AsciiDoxy generates API documentation from Doxygen XML output to
         AsciiDoc.
-      stargazerCount: 21
+      stargazerCount: 22
       forkCount: 7
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
@@ -161,7 +161,7 @@
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
-      stargazerCount: 21
+      stargazerCount: 22
       forkCount: 3
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
