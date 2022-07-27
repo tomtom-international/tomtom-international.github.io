@@ -7,7 +7,7 @@
     - name: AutoStreamForAutoware
       description: A tool that converts HD Map data to Lanelet2 format
       stargazerCount: 8
-      forkCount: 0
+      forkCount: 1
       url: https://github.com/tomtom-international/AutoStreamForAutoware
       openIssues:
         totalCount: 0
@@ -31,7 +31,7 @@
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
       stargazerCount: 41
-      forkCount: 14
+      forkCount: 15
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
         totalCount: 0
