@@ -176,7 +176,7 @@
   projects:
     - name: BanditCameraKit-iOS
       description: The official iOS Bandit Camera Kit - donated by TomTom
-      stargazerCount: 4
+      stargazerCount: 5
       forkCount: 1
       url: https://github.com/tomtom-international/BanditCameraKit-iOS
       openIssues:
