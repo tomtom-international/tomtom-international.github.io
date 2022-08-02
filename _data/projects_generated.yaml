@@ -125,7 +125,7 @@
     - name: cookiecutter-python
       description: ":cookie: Cookiecutter template for Python packages"
       stargazerCount: 11
-      forkCount: 7
+      forkCount: 6
       url: https://github.com/tomtom-international/cookiecutter-python
       openIssues:
         totalCount: 11
@@ -165,7 +165,7 @@
       forkCount: 3
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
-        totalCount: 4
+        totalCount: 3
       watchers:
         totalCount: 1
 - config:
