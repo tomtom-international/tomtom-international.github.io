@@ -30,7 +30,7 @@
     - name: alertmanager-webhook-logger
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
-      stargazerCount: 41
+      stargazerCount: 42
       forkCount: 17
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
@@ -57,7 +57,7 @@
     - name: openlr
       description: Reference implementation of OpenLR.  A map agnostic, dynamic
         location referencing method.
-      stargazerCount: 60
+      stargazerCount: 61
       forkCount: 21
       url: https://github.com/tomtom-international/openlr
       openIssues:
@@ -185,7 +185,7 @@
         totalCount: 5
     - name: maps-sdk-for-ios-examples
       description: TomTom Maps SDK for iOS - Examples
-      stargazerCount: 13
+      stargazerCount: 14
       forkCount: 4
       url: https://github.com/tomtom-international/maps-sdk-for-ios-examples
       openIssues:
