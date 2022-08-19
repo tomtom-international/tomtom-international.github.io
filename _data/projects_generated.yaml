@@ -121,7 +121,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 4
+        totalCount: 3
     - name: cookiecutter-python
       description: ":cookie: Cookiecutter template for Python packages"
       stargazerCount: 11
