@@ -88,7 +88,7 @@
   projects:
     - name: kotlin-tools
       description: A collection of handy Kotlin tools, made open-source by TomTom
-      stargazerCount: 10
+      stargazerCount: 11
       forkCount: 3
       url: https://github.com/tomtom-international/kotlin-tools
       openIssues:
@@ -161,7 +161,7 @@
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
-      stargazerCount: 23
+      stargazerCount: 24
       forkCount: 3
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
