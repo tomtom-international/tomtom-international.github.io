@@ -16,7 +16,7 @@
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
-      stargazerCount: 664
+      stargazerCount: 663
       forkCount: 79
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
@@ -121,7 +121,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 3
+        totalCount: 4
     - name: cookiecutter-python
       description: ":cookie: Cookiecutter template for Python packages"
       stargazerCount: 11
