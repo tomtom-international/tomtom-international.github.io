@@ -89,7 +89,7 @@
     - name: kotlin-tools
       description: A collection of handy Kotlin tools, made open-source by TomTom
       stargazerCount: 11
-      forkCount: 3
+      forkCount: 4
       url: https://github.com/tomtom-international/kotlin-tools
       openIssues:
         totalCount: 3
@@ -104,7 +104,7 @@
     - name: asciidoxy
       description: AsciiDoxy generates API documentation from Doxygen XML output to
         AsciiDoc.
-      stargazerCount: 22
+      stargazerCount: 23
       forkCount: 7
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
@@ -162,7 +162,7 @@
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
       stargazerCount: 24
-      forkCount: 3
+      forkCount: 4
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
         totalCount: 3
