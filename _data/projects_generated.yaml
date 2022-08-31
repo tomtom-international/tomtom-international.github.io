@@ -161,7 +161,7 @@
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
-      stargazerCount: 24
+      stargazerCount: 25
       forkCount: 4
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
