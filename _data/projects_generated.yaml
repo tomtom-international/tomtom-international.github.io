@@ -17,7 +17,7 @@
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
       stargazerCount: 664
-      forkCount: 79
+      forkCount: 78
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
         totalCount: 12
@@ -30,7 +30,7 @@
     - name: alertmanager-webhook-logger
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
-      stargazerCount: 43
+      stargazerCount: 45
       forkCount: 18
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
@@ -105,7 +105,7 @@
       description: AsciiDoxy generates API documentation from Doxygen XML output to
         AsciiDoc.
       stargazerCount: 23
-      forkCount: 7
+      forkCount: 8
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
         totalCount: 11
@@ -124,7 +124,7 @@
         totalCount: 4
     - name: cookiecutter-python
       description: ":cookie: Cookiecutter template for Python packages"
-      stargazerCount: 11
+      stargazerCount: 12
       forkCount: 7
       url: https://github.com/tomtom-international/cookiecutter-python
       openIssues:
@@ -151,7 +151,7 @@
         totalCount: 8
     - name: openlr-dereferencer-python
       description: OpenLR dereferencer in Python
-      stargazerCount: 9
+      stargazerCount: 10
       forkCount: 5
       url: https://github.com/tomtom-international/openlr-dereferencer-python
       openIssues:
