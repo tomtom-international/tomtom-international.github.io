@@ -17,10 +17,10 @@
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
       stargazerCount: 664
-      forkCount: 78
+      forkCount: 79
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
-        totalCount: 12
+        totalCount: 11
       watchers:
         totalCount: 45
 - config:
@@ -161,7 +161,7 @@
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
-      stargazerCount: 25
+      stargazerCount: 26
       forkCount: 4
       url: https://github.com/tomtom-international/vault-assessment-prometheus-exporter
       openIssues:
