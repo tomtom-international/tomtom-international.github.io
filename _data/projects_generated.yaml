@@ -47,7 +47,7 @@
       description: James is a Java agent that may be attached to any JVM process and
         provide operational insight on what's going on under the hood of your
         service.
-      stargazerCount: 23
+      stargazerCount: 24
       forkCount: 14
       url: https://github.com/tomtom-international/james
       openIssues:
@@ -75,7 +75,7 @@
         totalCount: 4
     - name: BanditCameraKit-Android
       description: The official Android Bandit Camera Kit - donated by TomTom
-      stargazerCount: 3
+      stargazerCount: 4
       forkCount: 3
       url: https://github.com/tomtom-international/BanditCameraKit-Android
       openIssues:
