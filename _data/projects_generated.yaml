@@ -22,7 +22,7 @@
       openIssues:
         totalCount: 11
       watchers:
-        totalCount: 45
+        totalCount: 44
 - config:
     id: go
     name: Go
