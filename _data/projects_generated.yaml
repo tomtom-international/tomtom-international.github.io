@@ -89,7 +89,7 @@
     - name: kotlin-tools
       description: A collection of handy Kotlin tools, made open-source by TomTom
       stargazerCount: 11
-      forkCount: 4
+      forkCount: 5
       url: https://github.com/tomtom-international/kotlin-tools
       openIssues:
         totalCount: 3
