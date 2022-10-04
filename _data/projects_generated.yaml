@@ -47,7 +47,7 @@
       description: James is a Java agent that may be attached to any JVM process and
         provide operational insight on what's going on under the hood of your
         service.
-      stargazerCount: 24
+      stargazerCount: 25
       forkCount: 14
       url: https://github.com/tomtom-international/james
       openIssues:
