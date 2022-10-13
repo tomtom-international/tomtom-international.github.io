@@ -20,7 +20,7 @@
       forkCount: 80
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
-        totalCount: 12
+        totalCount: 11
       watchers:
         totalCount: 43
 - config:
@@ -61,7 +61,7 @@
       forkCount: 23
       url: https://github.com/tomtom-international/openlr
       openIssues:
-        totalCount: 7
+        totalCount: 8
       watchers:
         totalCount: 14
     - name: speedtools
