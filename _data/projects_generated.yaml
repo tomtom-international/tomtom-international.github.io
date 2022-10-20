@@ -16,7 +16,7 @@
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
-      stargazerCount: 668
+      stargazerCount: 669
       forkCount: 80
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
@@ -30,7 +30,7 @@
     - name: alertmanager-webhook-logger
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
-      stargazerCount: 47
+      stargazerCount: 48
       forkCount: 20
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
@@ -53,11 +53,11 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 6
+        totalCount: 5
     - name: openlr
       description: Reference implementation of OpenLR.  A map agnostic, dynamic
         location referencing method.
-      stargazerCount: 61
+      stargazerCount: 62
       forkCount: 23
       url: https://github.com/tomtom-international/openlr
       openIssues:
