@@ -16,7 +16,7 @@
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
-      stargazerCount: 670
+      stargazerCount: 671
       forkCount: 80
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
@@ -108,7 +108,7 @@
       forkCount: 8
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
-        totalCount: 11
+        totalCount: 12
       watchers:
         totalCount: 6
     - name: commisery
