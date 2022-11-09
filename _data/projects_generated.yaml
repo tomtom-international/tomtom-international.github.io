@@ -110,7 +110,7 @@
       openIssues:
         totalCount: 12
       watchers:
-        totalCount: 6
+        totalCount: 7
     - name: commisery
       description: Commisery is a package to help check whether given commit messages
         adhere to Conventional Commits. Specifically it checks the syntax and
