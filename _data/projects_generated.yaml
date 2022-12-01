@@ -108,7 +108,7 @@
       forkCount: 7
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
-        totalCount: 12
+        totalCount: 13
       watchers:
         totalCount: 7
     - name: commisery
@@ -143,7 +143,7 @@
     - name: openlr-python
       description: OpenLR library for Python
       stargazerCount: 10
-      forkCount: 5
+      forkCount: 4
       url: https://github.com/tomtom-international/openlr-python
       openIssues:
         totalCount: 1
