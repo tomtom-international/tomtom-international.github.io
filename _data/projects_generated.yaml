@@ -125,7 +125,7 @@
     - name: cookiecutter-python
       description: ":cookie: Cookiecutter template for Python packages"
       stargazerCount: 15
-      forkCount: 8
+      forkCount: 9
       url: https://github.com/tomtom-international/cookiecutter-python
       openIssues:
         totalCount: 11
