@@ -17,7 +17,7 @@
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
       stargazerCount: 674
-      forkCount: 80
+      forkCount: 81
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
         totalCount: 13
