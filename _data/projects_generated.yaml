@@ -57,7 +57,7 @@
     - name: openlr
       description: Reference implementation of OpenLR.  A map agnostic, dynamic
         location referencing method.
-      stargazerCount: 62
+      stargazerCount: 63
       forkCount: 23
       url: https://github.com/tomtom-international/openlr
       openIssues:
@@ -104,13 +104,13 @@
     - name: asciidoxy
       description: AsciiDoxy generates API documentation from Doxygen XML output to
         AsciiDoc.
-      stargazerCount: 23
+      stargazerCount: 24
       forkCount: 7
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 7
+        totalCount: 8
     - name: commisery
       description: Commisery is a package to help check whether given commit messages
         adhere to Conventional Commits. Specifically it checks the syntax and
