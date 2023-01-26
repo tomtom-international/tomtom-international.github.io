@@ -57,7 +57,6 @@
       <i class="devicon-swift-plain"></i>
   projects:
     - url: https://github.com/tomtom-international/BanditCameraKit-iOS
-    - url: https://github.com/tomtom-international/maps-sdk-for-ios-examples
 - config:
     id: other
     name: Other
