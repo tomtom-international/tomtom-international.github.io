@@ -31,7 +31,7 @@
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
       stargazerCount: 54
-      forkCount: 22
+      forkCount: 21
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
         totalCount: 0
@@ -53,7 +53,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 5
+        totalCount: 4
     - name: openlr
       description: Reference implementation of OpenLR.  A map agnostic, dynamic
         location referencing method.
