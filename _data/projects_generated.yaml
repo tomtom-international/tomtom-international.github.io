@@ -30,7 +30,7 @@
     - name: alertmanager-webhook-logger
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
-      stargazerCount: 54
+      stargazerCount: 55
       forkCount: 21
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
@@ -104,7 +104,7 @@
     - name: asciidoxy
       description: AsciiDoxy generates API documentation from Doxygen XML output to
         AsciiDoc.
-      stargazerCount: 24
+      stargazerCount: 25
       forkCount: 7
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
