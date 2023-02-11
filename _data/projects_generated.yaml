@@ -115,13 +115,13 @@
       description: Commisery is a package to help check whether given commit messages
         adhere to Conventional Commits. Specifically it checks the syntax and
         some small aspects of the semantics.
-      stargazerCount: 2
+      stargazerCount: 3
       forkCount: 2
       url: https://github.com/tomtom-international/commisery
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 4
+        totalCount: 5
     - name: cookiecutter-python
       description: ":cookie: Cookiecutter template for Python packages"
       stargazerCount: 15
