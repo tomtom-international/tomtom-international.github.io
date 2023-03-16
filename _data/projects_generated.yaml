@@ -16,13 +16,13 @@
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
-      stargazerCount: 683
+      stargazerCount: 684
       forkCount: 79
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 43
+        totalCount: 42
 - config:
     id: go
     name: Go
