@@ -105,7 +105,7 @@
       description: AsciiDoxy generates API documentation from Doxygen XML output to
         AsciiDoc.
       stargazerCount: 25
-      forkCount: 7
+      forkCount: 8
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
         totalCount: 14
