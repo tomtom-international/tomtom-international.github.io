@@ -67,7 +67,7 @@
     - name: speedtools
       description: The official SpeedTools Library for Java - donated by TomTom
       stargazerCount: 8
-      forkCount: 6
+      forkCount: 7
       url: https://github.com/tomtom-international/speedtools
       openIssues:
         totalCount: 0
