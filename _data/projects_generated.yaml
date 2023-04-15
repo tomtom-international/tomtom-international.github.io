@@ -12,7 +12,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 5
+        totalCount: 6
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
