@@ -4,7 +4,7 @@
   "description": "Free and Open Source Software projects by Spotify",
   "dependencies": {
     "@octokit/graphql": "^4.6.4",
-    "yaml": "^1.10.2"
+    "yaml": "^2.2.2"
   },
   "type": "module",
   "repository": {
