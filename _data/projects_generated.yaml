@@ -57,13 +57,13 @@
     - name: openlr
       description: Reference implementation of OpenLR.  A map agnostic, dynamic
         location referencing method.
-      stargazerCount: 68
+      stargazerCount: 69
       forkCount: 25
       url: https://github.com/tomtom-international/openlr
       openIssues:
         totalCount: 8
       watchers:
-        totalCount: 15
+        totalCount: 16
     - name: speedtools
       description: The official SpeedTools Library for Java - donated by TomTom
       stargazerCount: 8
