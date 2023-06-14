@@ -6,7 +6,7 @@
   projects:
     - name: AutoStreamForAutoware
       description: A tool that converts HD Map data to Lanelet2 format
-      stargazerCount: 8
+      stargazerCount: 9
       forkCount: 1
       url: https://github.com/tomtom-international/AutoStreamForAutoware
       openIssues:
