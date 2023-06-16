@@ -16,7 +16,7 @@
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
-      stargazerCount: 691
+      stargazerCount: 692
       forkCount: 80
       url: https://github.com/tomtom-international/cpp-dependencies
       openIssues:
@@ -152,7 +152,7 @@
     - name: openlr-dereferencer-python
       description: OpenLR dereferencer in Python
       stargazerCount: 11
-      forkCount: 6
+      forkCount: 7
       url: https://github.com/tomtom-international/openlr-dereferencer-python
       openIssues:
         totalCount: 6
