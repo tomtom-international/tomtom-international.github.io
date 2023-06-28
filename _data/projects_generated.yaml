@@ -12,7 +12,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 6
+        totalCount: 7
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
@@ -22,7 +22,7 @@
       openIssues:
         totalCount: 13
       watchers:
-        totalCount: 42
+        totalCount: 43
 - config:
     id: go
     name: Go
@@ -36,7 +36,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 4
+        totalCount: 5
 - config:
     id: java
     name: Java
@@ -53,7 +53,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 4
+        totalCount: 5
     - name: openlr
       description: Reference implementation of OpenLR.  A map agnostic, dynamic
         location referencing method.
@@ -63,7 +63,7 @@
       openIssues:
         totalCount: 8
       watchers:
-        totalCount: 16
+        totalCount: 17
     - name: speedtools
       description: The official SpeedTools Library for Java - donated by TomTom
       stargazerCount: 8
@@ -72,7 +72,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 4
+        totalCount: 5
     - name: BanditCameraKit-Android
       description: The official Android Bandit Camera Kit - donated by TomTom
       stargazerCount: 4
@@ -81,7 +81,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 6
+        totalCount: 7
 - config:
     id: kotlin
     name: Kotlin
@@ -94,7 +94,7 @@
       openIssues:
         totalCount: 2
       watchers:
-        totalCount: 6
+        totalCount: 7
 - config:
     id: python
     name: Python
@@ -110,7 +110,7 @@
       openIssues:
         totalCount: 14
       watchers:
-        totalCount: 8
+        totalCount: 9
     - name: commisery
       description: Commisery is a package to help check whether given commit messages
         adhere to Conventional Commits. Specifically it checks the syntax and
@@ -121,7 +121,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 5
+        totalCount: 6
     - name: cookiecutter-python
       description: ":cookie: Cookiecutter template for Python packages"
       stargazerCount: 17
@@ -130,7 +130,7 @@
       openIssues:
         totalCount: 11
       watchers:
-        totalCount: 7
+        totalCount: 8
     - name: keepachangelog-manager
       description: Python package allowing you to manage your CHANGELOG.md files
       stargazerCount: 4
@@ -139,7 +139,7 @@
       openIssues:
         totalCount: 2
       watchers:
-        totalCount: 3
+        totalCount: 4
     - name: openlr-python
       description: OpenLR library for Python
       stargazerCount: 11
@@ -148,7 +148,7 @@
       openIssues:
         totalCount: 1
       watchers:
-        totalCount: 8
+        totalCount: 9
     - name: openlr-dereferencer-python
       description: OpenLR dereferencer in Python
       stargazerCount: 11
@@ -157,7 +157,7 @@
       openIssues:
         totalCount: 6
       watchers:
-        totalCount: 5
+        totalCount: 6
     - name: vault-assessment-prometheus-exporter
       description: Provides a prometheus exporter for monitoring aspects secrets
         stored on a running HashiCorp Vault server
@@ -167,7 +167,7 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 2
+        totalCount: 3
 - config:
     id: swift
     name: Swift
@@ -182,7 +182,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 5
+        totalCount: 6
 - config:
     id: other
     name: Other
@@ -195,4 +195,4 @@
       openIssues:
         totalCount: 4
       watchers:
-        totalCount: 7
+        totalCount: 8
