@@ -104,7 +104,7 @@
     - name: asciidoxy
       description: AsciiDoxy generates API documentation from Doxygen XML output to
         AsciiDoc.
-      stargazerCount: 25
+      stargazerCount: 26
       forkCount: 8
       url: https://github.com/tomtom-international/asciidoxy
       openIssues:
