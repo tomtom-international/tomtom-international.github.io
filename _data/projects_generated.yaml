@@ -12,7 +12,7 @@
       openIssues:
         totalCount: 0
       watchers:
-        totalCount: 7
+        totalCount: 6
     - name: cpp-dependencies
       description: "Tool to check C++ #include dependencies (dependency graphs created
         in .dot format)"
@@ -30,7 +30,7 @@
     - name: alertmanager-webhook-logger
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
-      stargazerCount: 62
+      stargazerCount: 63
       forkCount: 24
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
