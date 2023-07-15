@@ -133,7 +133,7 @@
         totalCount: 8
     - name: keepachangelog-manager
       description: Python package allowing you to manage your CHANGELOG.md files
-      stargazerCount: 4
+      stargazerCount: 5
       forkCount: 1
       url: https://github.com/tomtom-international/keepachangelog-manager
       openIssues:
