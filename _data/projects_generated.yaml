@@ -119,7 +119,7 @@
       forkCount: 3
       url: https://github.com/tomtom-international/commisery
       openIssues:
-        totalCount: 0
+        totalCount: 1
       watchers:
         totalCount: 6
     - name: cookiecutter-python
