@@ -116,7 +116,7 @@
         adhere to Conventional Commits. Specifically it checks the syntax and
         some small aspects of the semantics.
       stargazerCount: 5
-      forkCount: 3
+      forkCount: 4
       url: https://github.com/tomtom-international/commisery
       openIssues:
         totalCount: 1
@@ -133,7 +133,7 @@
         totalCount: 8
     - name: keepachangelog-manager
       description: Python package allowing you to manage your CHANGELOG.md files
-      stargazerCount: 5
+      stargazerCount: 4
       forkCount: 1
       url: https://github.com/tomtom-international/keepachangelog-manager
       openIssues:
