@@ -57,8 +57,8 @@
     - name: openlr
       description: Reference implementation of OpenLR.  A map agnostic, dynamic
         location referencing method.
-      stargazerCount: 73
-      forkCount: 25
+      stargazerCount: 74
+      forkCount: 26
       url: https://github.com/tomtom-international/openlr
       openIssues:
         totalCount: 8
