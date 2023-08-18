@@ -31,7 +31,7 @@
       description: Generates (structured) log messages from Prometheus AlertManager
         webhook notifier.
       stargazerCount: 64
-      forkCount: 24
+      forkCount: 25
       url: https://github.com/tomtom-international/alertmanager-webhook-logger
       openIssues:
         totalCount: 0
